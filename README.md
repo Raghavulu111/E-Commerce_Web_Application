@@ -82,7 +82,7 @@
 
 4. Set the stack:container for the application in order to build with docker-compose.
    ```
-      heroku stack:set container -a <application-name>
+      Elastic stack bean stack:set container -a <application-name>
    ```
  
 5. Deploy individual service on AWS Elastic Stack Bean.
